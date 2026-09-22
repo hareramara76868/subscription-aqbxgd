@@ -1,8 +1,10 @@
 2026/09/22 18:29:44
 
-<!-- notify 1/2 · IuXNqrS3 -->
-## Notification 1/2
-Round: Round 1
-To: orkarate@aol.com, rizyinri@yahoo.com
-At: 2026-09-22 18:29:51
-Id: IuXNqrS3
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: xiane0507@yahoo.com, earlemarsh@aol.com
+At: 2026-09-22 18:30:00
+Id: I2rempG4
